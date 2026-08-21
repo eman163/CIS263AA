@@ -1,3 +1,0 @@
-Hello Everyone,
-
-My name is Emmanuel and I choose to use IntelliJ IDEA for this class. My reasons for choosing this IDE are because I currently use the application at work to develop API and other Java applications. I am confortable using Intellij as I have been in a developer position for about 6 years now. I am hoping that because I am comfortable using this IDE that it will make completing my assignments a lot much easier as I am used to this layout and shortcuts.
