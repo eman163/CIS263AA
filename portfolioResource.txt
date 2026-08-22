@@ -1,0 +1,7 @@
+I never thought about using Github/Github Pages as a portfolio until this lesson, but now that this idea has been put in my head I think this can be beneficial.  I am currently not looking to leave my place of work, but I can use this same platform to not only update my résumé and projects, but I can also use it to showcase for my mid-year reviews and end of year review as well
+
+I can use Github/Github Pages to showcase not only what I am did in the class, but I can also show the different types of code I helped to create or update in my current place of work. Of course, I will not provide any information that is proprietary to the company, but just rewrite it to reflect the same outcome.
+
+When using it as a review to my manager and lead, I can use the platform to single out the different cards I have worked on throughout the year, while also showcasing any new code that might have been added to rewrite specific applications or features. All of this information can also be used as information I can use to apply for future jobs also.
+
+In conclusion with this first lesson it has opened my eyes as to other ways I can use Github/Github Pages to not only use it for coding and documenting specific developer instructions, but also to use for reviews and potential future job applications.
