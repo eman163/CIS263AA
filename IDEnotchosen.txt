@@ -1,0 +1,3 @@
+Hello Everyone,
+
+I did not choose the Eclipse IDE even though I have had minimum experience with the IDE in the past. I do use the shortcuts from Eclipse in Intellij, but I just feel more comfortable using Intellij. Since I am using Intellij for all of my work during the day I feel as I should stick with what I am used to.
